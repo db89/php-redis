@@ -1,6 +1,7 @@
 <?php
 
 /*
+ *  函数：get
  *	描述: 获取有关指定的值
  *	参数：key
  *	返回值：String或者BOOL 成功：key所对应的value值 ；失败：False

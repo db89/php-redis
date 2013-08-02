@@ -1,6 +1,7 @@
 <?php
 
 /*
+ * 	函数：set
  *	描述：设置key和value的值
  *	参数：key value
  *	返回值：BOOL 成功：Ture ；失败：False
