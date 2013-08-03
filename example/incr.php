@@ -1,10 +1,10 @@
 <?php
 
 /*
- * 	函数：incr
+ * 	函数: incr
  *	描述: 数字递增存储键值键。
- *	参数：key value：将被添加到键的值
- *	返回值：int the new value
+ *	参数: key value：将被添加到键的值
+ *	返回值: int the new value
  *
  *	author: DuBin
  *	mail: db89@163.com

@@ -1,10 +1,10 @@
 <?php
 
 /*
- * 	函数：exists
- *	描述：验证指定的键是否存在
- *	参数：key
- *	返回值：BOOL 成功：Ture ；失败：False
+ * 	函数: exists
+ *	描述: 验证指定的键是否存在
+ *	参数: key
+ *	返回值: BOOL 成功：Ture ；失败：False
  *
  *	author: DuBin
  *	mail: db89@163.com

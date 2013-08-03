@@ -19,8 +19,8 @@
 
 	$redis -> delete('name');
 
-	var_dump($redis->rpush('name', "DuBin"));	//结果: int(1)
-	var_dump($redis->rpush('name', "LWP"));		//结果: int(2)
+	var_dump($redis->lpush('name', "DuBin"));	//结果: int(1)
+	var_dump($redis->lpush('name', "LWP"));		//结果: int(2)
 	var_dump($redis->rpush('name', "DJM"));		//结果: int(3)
 	var_dump($redis->rpush('name', "CLL"));		//结果: int(3)
 	
